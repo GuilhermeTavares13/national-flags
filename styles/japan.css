@@ -1,0 +1,25 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: antiquewhite;
+}
+.flags {
+    width: 800px;
+    height: 600px;
+}
+
+#japan {
+    width: 600px;
+    height: 400px;
+    background-color: white; 
+    position: relative;
+}
+
+#japan-inner-circle {
+    width: 200px;
+    height: 200px;
+    background-color: #BC002D;
+    border-radius: 50%;
+    position: absolute;
+    top: 100px;
+    left: 190px;
+}
