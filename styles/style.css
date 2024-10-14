@@ -1,0 +1,9 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: antiquewhite;
+}
+
+.flags {
+    width: 800px;
+    height: 600px;
+}
