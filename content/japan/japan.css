@@ -1,0 +1,16 @@
+#japan {
+    width: 600px;
+    height: 400px;
+    background-color: white; 
+    position: relative;
+}
+
+#japan-inner-circle {
+    width: 200px;
+    height: 200px;
+    background-color: #BC002D;
+    border-radius: 50%;
+    position: absolute;
+    top: 100px;
+    left: 180px;
+}
