@@ -1,0 +1,17 @@
+#bangladesh {
+    width: 600px;
+    height: 360px;
+    background-color: #006A4E;
+    display: flex;
+    align-items: center;
+}
+
+
+#bangladesh-inner-circle {
+    background-color: #F42A41;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-left: 140px; 
+    /* For a reason the inner circle is off centered in the real flag */
+}
